@@ -1,0 +1,37 @@
+body{
+	background-color: palegoldenrod;
+	font-family: 'Boogaloo', cursive;
+}
+
+#title{
+	background-color:lightcyan;
+}
+
+h1{
+font-family: 'Moo Lah Lah', cursive;
+font-size:4.236rem;
+color:#ED6A5A;
+}
+
+
+h2{
+font-size: 2.618rem;
+color:#36C9C6;
+} 
+
+	#ingredients{
+		background-color:#E6EBE0 ;
+	}
+	#instructions{
+		background-color:#9BC1BC ;
+	}
+
+h3{
+	font-size:6.326rem;
+	color: forestgreen;
+}
+
+h4{
+	font-size:3.334rem;
+	color:darkmagenta;
+}
